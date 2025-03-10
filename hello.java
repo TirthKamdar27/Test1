@@ -1,5 +1,6 @@
 class hello{
     public static void main(String[] args) {
-        System.out.println("Create a new func");
+
+        System.out.println("Hello Jay here");
     }
 }
